@@ -1,5 +1,4 @@
 EESchema Schematic File Version 4
-LIBS:B3PKey-cache
 EELAYER 30 0
 EELAYER END
 $Descr A4 11693 8268
@@ -51,15 +50,4 @@ Text GLabel 4950 3250 0    50   Input ~ 0
 D+
 Text GLabel 4950 3350 0    50   Input ~ 0
 D-
-$Comp
-L Device:Crystal_GND24_Small Y?
-U 1 1 5F2D981E
-P 4400 2550
-F 0 "Y?" V 4354 2694 50  0000 L CNN
-F 1 "Crystal_GND24_Small" V 4445 2694 50  0000 L CNN
-F 2 "" H 4400 2550 50  0001 C CNN
-F 3 "~" H 4400 2550 50  0001 C CNN
-	1    4400 2550
-	0    1    1    0   
-$EndComp
 $EndSCHEMATC
