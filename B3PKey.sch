@@ -2899,4 +2899,8 @@ Wire Wire Line
 Connection ~ 9750 7700
 Wire Wire Line
 	9750 7700 10850 7700
+Text Label 2050 8500 0    50   ~ 0
+D_P
+Text Label 2050 8600 0    50   ~ 0
+D_N
 $EndSCHEMATC
