@@ -2903,4 +2903,52 @@ Text Label 2050 8500 0    50   ~ 0
 D_P
 Text Label 2050 8600 0    50   ~ 0
 D_N
+Text GLabel 3700 8500 2    50   Input ~ 0
+COL3
+Text GLabel 3700 8400 2    50   Input ~ 0
+COL4
+Text GLabel 3700 8100 2    50   Input ~ 0
+COL5
+Text GLabel 3700 8000 2    50   Input ~ 0
+COL6
+Text GLabel 3700 7900 2    50   Input ~ 0
+COL7
+Text GLabel 3700 9400 2    50   Input ~ 0
+COL8
+Text GLabel 3700 9300 2    50   Input ~ 0
+COL9
+Text GLabel 3700 9100 2    50   Input ~ 0
+COL10
+Text GLabel 3700 8900 2    50   Input ~ 0
+COL13
+Text GLabel 3700 9000 2    50   Input ~ 0
+COL12
+Text GLabel 3700 9200 2    50   Input ~ 0
+COL11
+Text GLabel 3700 9900 2    50   Input ~ 0
+ROW0
+Text GLabel 3700 10000 2    50   Input ~ 0
+ROW1
+Text GLabel 3700 10100 2    50   Input ~ 0
+ROW2
+Text GLabel 3700 10200 2    50   Input ~ 0
+ROW3
+Text GLabel 3700 10300 2    50   Input ~ 0
+ROW4
+Text GLabel 3700 10400 2    50   Input ~ 0
+ROW5
+NoConn ~ 2500 8100
+Text GLabel 3700 9700 2    50   Input ~ 0
+COL0
+NoConn ~ 3700 7500
+NoConn ~ 3700 7600
+NoConn ~ 3700 8200
+NoConn ~ 3700 8700
+NoConn ~ 3700 8800
+NoConn ~ 5300 10150
+NoConn ~ 5300 10550
+Text GLabel 3700 7800 2    50   Input ~ 0
+COL1
+Text GLabel 3700 7700 2    50   Input ~ 0
+COL2
 $EndSCHEMATC
