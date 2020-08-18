@@ -1,0 +1,36 @@
+{
+    "type": "InteractiveHtmlBom settings",
+    "version": 1,
+    "pcbmetadata": {
+        "date": "2020-08-18 09:16:56",
+        "company": "Elsbree Enterprises",
+        "revision": "1",
+        "title": "B3PKey"
+    },
+    "settings": {
+        "canvaslayout": "FB",
+        "bomlayout": "bom-only",
+        "bommode": "grouped",
+        "checkboxes": [
+            "Sourced",
+            "Placed"
+        ],
+        "checkboxStoredRefs": {
+            "Sourced": "171,170,169,172,168,167,165,166,10,7,9,8,6,5,11",
+            "Placed": ""
+        },
+        "darkMode": true,
+        "highlightpin1": false,
+        "redrawOnDrag": true,
+        "boardRotation": 0,
+        "renderPads": true,
+        "renderReferences": true,
+        "renderValues": true,
+        "renderSilkscreen": true,
+        "renderFabrication": false,
+        "renderDnpOutline": false,
+        "renderTracks": false,
+        "renderZones": false,
+        "darkenWhenChecked": ""
+    }
+}
